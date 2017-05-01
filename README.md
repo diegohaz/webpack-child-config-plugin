@@ -25,7 +25,7 @@ const clientConfig = {
   ...
   plugins: [
     new ChildConfigPlugin(serverConfig, {
-      // these are the defaults, you can override
+      // these are the defaults, you can override them
       watch: serverConfig.watch,
       when: 'done',
       compilerCallback: () => {}

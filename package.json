@@ -63,7 +63,8 @@
     "jest-cli": "^19.0.1",
     "npm-watch": "^0.1.7",
     "opn-cli": "^3.1.0",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.6.1",
+    "webpack": "^2.4.1"
   },
   "peerDependencies": {
     "webpack": "^2.0.0"

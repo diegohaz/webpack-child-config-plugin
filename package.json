@@ -1,6 +1,6 @@
 {
   "name": "webpack-child-config-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A webpack plugin that runs/watches another config",
   "license": "MIT",
   "repository": "diegohaz/webpack-child-config-plugin",

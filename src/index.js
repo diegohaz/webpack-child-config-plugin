@@ -40,4 +40,4 @@ class ChildConfigPlugin {
   }
 }
 
-export default ChildConfigPlugin
+module.exports = ChildConfigPlugin

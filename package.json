@@ -67,6 +67,6 @@
     "webpack": "^3.10.0"
   },
   "peerDependencies": {
-    "webpack": "2.x || 3.x"
+    "webpack": ">= 2 < 5"
   }
 }
